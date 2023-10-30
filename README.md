@@ -7,7 +7,7 @@ Differential Gene Expression (DGE) Analysis in Microarray Data of Breast Cancer 
 > 3. Investigate genes that are expressed differently between normal cell and cancer cell.
 
 ## Set
-- **Dataset:** Dataset GSE45827 on breast cancer gene expression from [CuMiDa](https://www.kaggle.com/datasets/brunogrisci/breast-cancer-gene-expression-cumida/);
+- **Dataset:** GSE45827 on breast cancer gene expression from [Curated Microarray Database (CuMiDa)](https://www.kaggle.com/datasets/brunogrisci/breast-cancer-gene-expression-cumida/);
 - **Platform:** GPL 570
 - **Filtering:** `genefilter`;
 - **Gene Expression Analysis:** `limma`, `t-test`;
